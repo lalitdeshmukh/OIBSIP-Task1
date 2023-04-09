@@ -1,0 +1,189 @@
+
+   
+.box2{
+    position:relative;
+    color: rgb(3, 230, 154);
+    background-color: rgb(255, 255, 255);
+    height: 250px;
+    width: 6px;
+    opacity: 100%;
+    left: 962px;
+    top: 350px;
+    box-shadow: inset 10 10 10px ;
+}
+.for1{
+    position:absolute;
+    height: 1072px ;
+    width: 2130px;
+    left: 0px;
+    top: 0px;
+    bottom: 0px;
+    background-color: black;
+    opacity: 80%;
+}
+.box{
+    position: absolute;
+    height: 810px;
+    width: 1560px;
+    background-color: rgb(165, 165, 165);
+    color: blue;
+    opacity: 70%;
+    border-radius: 20px;
+    left:259px;
+    top: 85px;
+    background-color: black ;
+    box-shadow:0 0 35px rgb(61, 61, 61) ;
+    
+}
+.W1{
+    position:absolute;
+    color: rgb(255, 255, 255);
+    top: 347px;
+    left: 406px;
+    font-weight: bolder;
+    font-size: 150px;
+    font-style:normal;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     
+}     
+.W2{
+    position:absolute;
+    color: rgb(255, 255, 255);
+    font-size: larger;
+    top: 350px;
+    left: 406px;
+    font-weight: 500;
+    font-size: 38px;
+    font-style:normal;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     
+}     
+.w3{
+    font-size:large;
+    font-weight: 400;
+    position: absolute;
+    color: rgb(255, 255, 255);
+    float: left;
+    width: 900px;
+    margin: auto;
+    max-width: 600px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    left: 1080px;
+    top: 370px;
+}   
+.l {
+    position: relative;
+    width: 30px;
+    color: azure;
+    left: 1470px;
+    top: 570px;
+    
+}
+.l:hover{
+    color: #4267B2;
+    top: 565px;
+}
+.bi2 {
+    position: relative;
+    width: 30px;
+    color: azure;
+    left: 1517px;
+    top: 570px;
+    
+}
+.bi2:hover{
+    color:  #feda75;
+    top: 565;
+}
+.bi3 {
+    position: relative;
+    width: 30px;
+    color: azure;
+    left: 1555px;
+    top: 570px;
+    
+}
+.bi3:hover{
+    color: #1DA1F2;
+    top: 525;
+}
+.container2{
+    position:absolute;
+   overflow: hidden;
+   margin-top: -170px;
+   left: 1155px;
+   color: rgb(49, 53, 56);
+   font-size: 20px;
+   float: right;
+   right: 10%;
+   padding:10px;
+   box-shadow:inset 10,0,30,0 rgba(0,0,0.5) ;
+   
+   
+}
+.container2 a{
+   
+    position:relative;
+    padding: 20px 40px;
+    
+    
+}
+.container2 a:hover{
+    transition: .4s ease;
+    text-decoration: none ;
+    cursor: pointer;
+    background-color: rgb(255, 255, 255) ;
+    color: rgb(87, 87, 87);
+    
+}
+
+.bt1{
+    position: absolute;
+    font-size: 17px;
+    
+    padding-left: 1.5%;
+    padding-right: 1.5%;
+    padding-top: .5%;
+    padding-bottom: .5%;
+   left: 19%;
+   top: 60%;
+   color: rgb(255, 255, 255);
+   opacity: 100%;
+   background-color: rgba(28, 209, 209, 0.801);
+   border: 3px white;
+   box-shadow:0px 0px 5px 2px rgb(170, 167, 167);
+   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   font-weight:600;
+   letter-spacing: 2px;
+   border-radius:7px;
+}
+.bt1:hover{
+    box-shadow:0px 0px 5px 2px rgb(255, 255, 255);
+    background-color: rgb(28, 209, 209);
+   
+}
+.bt2{
+    position: absolute;
+    font-size: 17px;
+    
+    padding-left: 1.5%;
+    padding-right: 1.5%;
+    padding-top: .5%;
+    padding-bottom: .5%;
+   left: 32%;
+   top: 60%;
+   color: rgb(255, 255, 255);
+   opacity: 100%;
+   background-color: rgb(28, 209, 209);
+   border: 3px white;
+   box-shadow:0px 0px 5px 2px rgb(170, 167, 167);
+   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   font-weight:600;
+   letter-spacing: 2px;
+   border-radius: 7px ;
+}
+.bt2:hover{
+    box-shadow:0px 0px 5px 2px rgb(255, 255, 255);
+   
+}
+
